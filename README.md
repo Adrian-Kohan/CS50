@@ -55,7 +55,7 @@ Lecture 09 -  Et Cetera <br>
 | 3      | Homework  | Plurality    | ![](https://geps.dev/progress/100)
 | 3      | Homework  | Runoff    | ![](https://geps.dev/progress/100)
 | 4      | Lab  | WAV     | ![](https://geps.dev/progress/100)
-| 4      | Homework  | Filter-less      | ![](https://geps.dev/progress/86)
+| 4      | Homework  | Filter-less      | ![](https://geps.dev/progress/100)
 | 4      | Homework  | Recover      | ![](https://geps.dev/progress/100)
 | 5      | Lab       | Inheritance | ![](https://geps.dev/progress/100)
 | 5      | Homework  | Speller      | ![](https://geps.dev/progress/100)
