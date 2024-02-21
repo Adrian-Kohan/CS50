@@ -20,7 +20,7 @@ Lecture 06 - Python <br>
 Lecture 07 - SQL <br>
 Lecture 08 - HTML, CSS, JavaScript <br>
 Lecture 09 - Flask <br>
-Lecture 10 - Emoji <br>
+Lecture 10 - Cybersecurity <br>
 
 ### CS50P
 An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and "debug" it. Designed for students with or without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. No software required except for a web browser, or you can write code on your own PC or Mac.
@@ -74,7 +74,7 @@ Lecture 09 -  Et Cetera <br>
 | 10     | Final project  | Cybersecurity      | ![](https://geps.dev/progress/100)
 
 ## CS50x certificate
-<img  src="https://user-images.githubusercontent.com/98851253/168121216-78c20207-e0a4-461a-8d65-b3db48b64a8d.png">
+<img  src="CS50x.png">
 
 
 
