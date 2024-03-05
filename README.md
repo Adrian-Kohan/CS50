@@ -22,23 +22,6 @@ Lecture 08 - HTML, CSS, JavaScript <br>
 Lecture 09 - Flask <br>
 Lecture 10 - Cybersecurity <br>
 
-### CS50P
-An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and "debug" it. Designed for students with or without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. No software required except for a web browser, or you can write code on your own PC or Mac.
-
-Whereas CS50x itself focuses on computer science more generally as well as programming with C, Python, SQL, and JavaScript, this course, aka CS50P, is entirely focused on programming with Python. You can take CS50P before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, you should still take CS50x!
-
-Lecture 00 - Functions, Variables <br>
-Lecture 01 - Conditionals <br>
-Lecture 02 - Loops <br>
-Lecture 03 - Exceptions <br>
-Lecture 04 - Libraries <br>
-Lecture 05 - Unit Tests <br>
-Lecture 06 - File I/O <br>
-Lecture 07 - Regular Expressions <br>
-Lecture 08 - Object-Oriented Programming <br>
-Lecture 09 -  Et Cetera <br>
-
-
 ## CS50x Gradebook
 
 <!-- https://github.com/gepser/markdown-progress -->
@@ -75,33 +58,3 @@ Lecture 09 -  Et Cetera <br>
 
 ## CS50x certificate
 <img  src="CS50x.png">
-
-
-
-
-
-## CS50P Gradebook
-<!-- https://github.com/gepser/markdown-progress -->
-| Week      | Type | Title | Grade|
-| ----------- | ----------- | ----------- | ------------- |
-| 0      | Homework  | Indoor Voice    | ![](https://geps.dev/progress/100)
-| 0      | Homework  | Playback Speed    | ![](https://geps.dev/progress/100)
-| 0      | Homework  | Making Faces    | ![](https://geps.dev/progress/100)
-| 0      | Homework  | Einstein    | ![](https://geps.dev/progress/100)
-| 0      | Homework  | Tip Calculator    | ![](https://geps.dev/progress/100)
-| 1      | Homework  | Deep Thought    | ![](https://geps.dev/progress/100)
-| 1      | Homework  | Home Federal Savings Bank    | ![](https://geps.dev/progress/100)
-| 1      | Homework  | File Extensions    | ![](https://geps.dev/progress/100)
-| 1      | Homework  | Math Interpreter    | ![](https://geps.dev/progress/100)
-| 1      | Homework  | Meal Time    | ![](https://geps.dev/progress/100)
-| 2      | Homework  | camelCase    | ![](https://geps.dev/progress/100)
-| 2      | Homework  | Coke Machine    | ![](https://geps.dev/progress/100)
-| 2      | Homework  | Just setting up my twttr   | ![](https://geps.dev/progress/100)
-| 2      | Homework  | Vanity Plates    | ![](https://geps.dev/progress/100)
-| 2      | Homework  | Nutrition Facts    | ![](https://geps.dev/progress/100)
-| 3      | Homework  | Fuel Gauge   | ![](https://geps.dev/progress/100)
-| 3      | Homework  | Felipe’s Taqueria    | ![](https://geps.dev/progress/100)
-| 3      | Homework  | Grocery List    | ![](https://geps.dev/progress/100)
-| 3      | Homework  | Outdated    | ![](https://geps.dev/progress/100)
-
-
